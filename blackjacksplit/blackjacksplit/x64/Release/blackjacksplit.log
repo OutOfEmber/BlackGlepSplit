@@ -1,0 +1,6 @@
+﻿  blackjacksplit.cpp
+  Card.cpp
+  Deck.cpp
+  Game.cpp
+Game.obj : error LNK2001: неразрешенный внешний символ "private: int __cdecl Game::getSafeInt(void)" (?getSafeInt@Game@@AEAAHXZ).
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr4\BlackGlepSplit\blackjacksplit\x64\Release\blackjacksplit.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
